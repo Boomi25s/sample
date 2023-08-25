@@ -1,0 +1,12 @@
+1.git --version
+2.git help
+3.get status
+4.git init
+5.git branch
+6.git branch -M main
+7.gid add <file name>
+8.gid diff
+9.git commit -m "message"
+10.gid log 
+11.git remote add origin <url>
+12.git push -U origin main
